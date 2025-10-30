@@ -16,7 +16,7 @@ pyspark-learning/
 
 
 # Clone the repository
-git clone https://github.com/<your-username>/pyspark-learning.git
+git clone https://github.com/GTayal42/Pyspark-Learning
 
 # Navigate to the project folder
 cd pyspark-learning
